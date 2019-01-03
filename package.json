@@ -1,5 +1,5 @@
 {
-  "name": "mocha-teamcity-reporter",
+  "name": "@treatsee/mocha-teamcity-reporter",
   "engines": {
     "node": ">=4"
   },
